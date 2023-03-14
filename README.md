@@ -1,4 +1,4 @@
-# Emotion-detection-using-Tweets
+# Emotion-detection-using-Tweets-and-Naive-Bayes
 
 
 
